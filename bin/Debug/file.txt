@@ -1,0 +1,19 @@
+2022-05-19 20:05:41.6981|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:17:53.0638|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:17:54.9558|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:17:56.1229|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:19:15.0611|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:19:19.9296|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:19:22.0600|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:19:23.4504|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:30:09.7916|DEBUG|Individ.StudentsList|log Students
+2022-05-19 20:30:12.2940|ERROR|Individ.StudentsList|Whoops!|System.IO.FileNotFoundException: Файл 'C:\Users\User\source\repos\Individ\bin\Debug\.txt' не найден.
+Имя файла: 'C:\Users\User\source\repos\Individ\bin\Debug\.txt'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   в Individ.StudentsList.Students_Load(Object sender, EventArgs e) в C:\Users\User\source\repos\Individ\StudentsList.cs:строка 30
+2022-05-19 20:30:12.3283|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:37:46.2297|DEBUG|Individ.Form1|log Form1
+2022-05-19 20:37:47.6001|DEBUG|Individ.StudentsList|log Students
+2022-05-19 20:37:47.6165|DEBUG|Individ.Form1|log Form1
